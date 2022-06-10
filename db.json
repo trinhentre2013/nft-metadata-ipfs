@@ -109,6 +109,17 @@
               "difficulty": 10
           }
       ]
+    },
+    {
+      "id": 11,
+      "name": "Perl2",
+      "description": "Programming Language",
+      "image": "https://cdn3.iconfinder.com/data/icons/developer-files-2-add-on/48/v-48-512.png",
+      "attributes": [
+          {
+              "difficulty": 10
+          }
+      ]
     }
   ],
   "profile": {
