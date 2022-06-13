@@ -120,6 +120,30 @@
               "difficulty": 10
           }
       ]
+    },
+    {
+      "id": 12,
+      "name": "Perl2",
+      "description": "Programming Language",
+      "image": "https://cdn3.iconfinder.com/data/icons/developer-files-2-add-on/48/v-48-512.png",
+      "attributes": [
+          {
+              "difficulty": 10
+          }
+      ]
+    }
+  ],
+  "dmnft001": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1638913974023-cef988e81629?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8bmZ0fGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "name": "Ghost #1",
+      "type": "NFT1",
+      "state": "IN_WALLET",
+      "properties": {
+      "backgroud": "Green_10",
+      "type": "Iron_Yellow_7"
+      }
     }
   ],
   "profile": {
